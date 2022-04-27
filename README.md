@@ -1,16 +1,17 @@
-### Hi there 👋
+#Olá amigos do GitHub 👋
+##**Bora** que tem muita coisa pra estudar:EMOJICODE:,
+_meu_ objetivo é aprender e colocar em prática esse novo saber, afim de poder entrar no mercado 
+de trabalho,me chamo Rodrigo , sou Radiologista, criei um projeto chamado **MINHA APOSTILA DIGITAL,** essa plataforma é uma forma que criei para ajudar aos que querem estudar e não tem condições de comprar uma apostila ou um livro, tudo isso é de **GRAÇA**, nesse projeto tem provas anteriores com gabarito, macetes, bizus e direcionamento para concursos, meu sonho é aprender a criar um site para redirecionar meu projeto pra ele, espero que aqui eu possa encontar muitas opiniões e ajuda dessa linda comunidade, nessa jornada de estudos.
+&theme=THEME_NAME![Rodrigoweb1983's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoweb1983)](https://github.com/Rodrigoweb1983/github-readme-stats)
+  
+  #**REDES SOCIAIS**
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-rosa-mar%C3%A7al-145916197/)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/minhaapostiladigital01/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhaapostiladigital01/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RodrigoRosaMar6)
+ [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/settings/profile)
 
-<!--
-**Rodrigoweb1983/Rodrigoweb1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
