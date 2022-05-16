@@ -1,7 +1,7 @@
 #Olá amigos do GitHub 👋
 ##**Bora** que tem muita coisa pra estudar:EMOJICODE:,
 _meu_ objetivo é aprender e colocar em prática esse novo saber, afim de poder entrar no mercado 
-de trabalho,me chamo Rodrigo , sou Radiologista, criei um projeto chamado **MINHA APOSTILA DIGITAL,** essa plataforma é uma forma que criei para ajudar aos que querem estudar e não tem condições de comprar uma apostila ou um livro, tudo isso é de **GRAÇA**, nesse projeto tem provas anteriores com gabarito, macetes, bizus e direcionamento para concursos, meu sonho é aprender a criar um site para redirecionar meu projeto pra ele, espero que aqui eu possa encontar muitas opiniões e ajuda dessa linda comunidade, nessa jornada de estudos.
+de trabalho,me chamo Rodrigo , sou Radiologista, criei alguns Portifólios para me apresentar no mercado chamado **depois eu posto aqui o nome do projeto ,** essa portifólio  é uma forma que criei para praticar a teoria que venho estudando, espero que aqui eu possa encontar muitas opiniões e ajuda dessa linda comunidade, nessa jornada de estudos.
 &theme=THEME_NAME![Rodrigoweb1983's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoweb1983)](https://github.com/Rodrigoweb1983/github-readme-stats)
   
