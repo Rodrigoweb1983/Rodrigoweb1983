@@ -1,7 +1,7 @@
-#Olá amigos do GitHub 👋
-##**Bora** que tem muita coisa pra estudar, meu objetivo é sempre estar  aprendendo e colocando em prática, afim de poder entrar no mercado 
-de trabalho,me chamo Rodrigo , sou estudante da escola TERA aonde curso (Desenvolvedor Full Stack) , criei alguns Portifólios para me apresentar no mercado  esses portifólios  é uma forma que criei para praticar a teoria que venho estudando, espero que aqui eu possa encontar muitas opiniões e ajuda dessa linda comunidade, nessa jornada de estudos.
-&theme=THEME_NAME![Rodrigoweb1983's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983&show_icons=true&theme=tokyonight)
+#Olá amigos do GitHub 👋 Me chamo Rodrigo, sou estudante da escola TERA aonde curso (Desenvolvedor Full Stack), meu objetivo é sempre estar aprendendo e colocando em prática, afim de poder entrar no mercado 
+de trabalho, Desenvolvi alguns projetos para por em pratica a teoria, nessa jornada de estudos ##**Bora** que tem muita coisa pra estudar!
+
+[Rodrigoweb1983's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoweb1983)](https://github.com/Rodrigoweb1983/github-readme-stats)
   
   #**REDES SOCIAIS**
