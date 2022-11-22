@@ -3,7 +3,7 @@ Desenvolvi alguns projetos para por em pratica a teoria e nessa jornada de estud
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoweb1983&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983)](https://github.com/Rodrigoweb1983/github-readme-stats)"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983"/>
 <div>
   💙REDES SOCIAIS💙
   
