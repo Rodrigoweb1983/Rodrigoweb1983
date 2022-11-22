@@ -2,9 +2,10 @@
 Desenvolvi alguns projetos para por em pratica a teoria e nessa jornada de estudos tenho aprendido que o conhecimento não é uma coisa estática e nem esgotável então ##**Bora** que tem muita coisa pra estudar!
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoweb1983&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoweb1983"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983"/>
 <div>
+
   💙REDES SOCIAIS💙
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-rosa-mar%C3%A7al-145916197/)
