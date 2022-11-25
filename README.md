@@ -2,7 +2,7 @@
 Desenvolvi alguns projetos para por em pratica a teoria e nessa jornada de estudos tenho aprendido que o conhecimento não é uma coisa estática e nem esgotável então ##**Bora** que tem muita coisa pra estudar!
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoweb1983"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoweb1983&theme=blue-green"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983"/>
 <div>
 
