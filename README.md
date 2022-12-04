@@ -3,7 +3,7 @@ Desenvolvi alguns projetos para por em pratica a teoria e nessa jornada de estud
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigoweb1983&show_icons=true&theme=tokyonight"/>
- <a href="https://www.linkedin.com/in/rodrigo-rosa-mar%C3%A7al-145916197/" target="_blank"> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]</a>
+ 
 <div>
 
   💙REDES SOCIAIS💙
